@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TongJiTony, a freshman in Tongji University
+- 👋 Hi, I’m @TongJiTony, a Junior in Tongji University
 - 👀 I’m interested in sports like fitness and basketball
-- 🌱 I’m currently learning C&C++
+- 🌱 I have learned C&C++, Python, Java, Rust, Ruby, JSX
 - 💞️ I’m looking to collaborate on projects entail c++ & ue5
 - 📫 How to reach me 2153679@mail.tongji.edu.cn by email
 
